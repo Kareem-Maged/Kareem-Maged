@@ -9,10 +9,10 @@
 ## 📌 Current Focus
 - Competitive Programming  
 - Software Development Projects  
-- Exploring different fields of software engineering  
+- Exploring Different Fields of Software Engineering  
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/Kareem-Maged](www.linkedin.com/in/kareem-maged)  
+- LinkedIn: [linkedin.com/in/Kareem-Maged](https://www.linkedin.com/in/kareem-maged/)  
 - GitHub: [github.com/Kareem-Maged](https://github.com/Kareem-Maged)
