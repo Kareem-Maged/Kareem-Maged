@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kareem 👋
 
-<!--
-**Kareem-Maged/Kareem-Maged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a **Computer Science student** aspiring to become a **Software Engineer**.  
+💡 Through **competitive programming**, I strengthen my **problem-solving** and **algorithmic thinking** skills, while also exploring different areas of **software development** to gain broader experience.  
+🚀 I am eager to continue **learning, growing, and applying my skills** in impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Competitive Programming  
+- Software Development Projects  
+- Exploring different fields of software engineering  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/kareem-maged](#)  
+- GitHub: [github.com/Kareem-Maged](#)
