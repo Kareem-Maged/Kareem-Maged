@@ -14,5 +14,5 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/Kareem-Maged](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/Kareem-Maged](https://github.com/KareemMagid)
+- LinkedIn: [linkedin.com/in/Kareem-Maged](www.linkedin.com/in/kareem-maged)  
+- GitHub: [github.com/Kareem-Maged](https://github.com/Kareem-Maged)
