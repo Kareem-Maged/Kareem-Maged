@@ -1,16 +1,18 @@
 # Hi, I'm Kareem Maged 👋
 
-I’m a Computer Science student focused on Artificial Intelligence and software engineering.
+I'm Kareem Maged, a Computer Science student focused on AI Engineering and Software Engineering, particularly the process of turning ideas into practical solutions.
 
-My background spans Machine Learning, Computer Vision, and NLP, supported by a strong foundation in algorithms, data structures, and problem-solving.
+My journey in AI has taken me across Machine Learning, Computer Vision, and NLP, and more recently into Generative AI and LLM Engineering. I've gained hands-on experience working with Transformer-based models, RAG systems, embeddings, fine-tuning, and LLM-powered applications. I'm especially interested in understanding how these technologies work and how to engineer them into useful, reliable systems.
 
-I’m currently focusing on LLMs and Generative AI, exploring model architectures, retrieval, fine-tuning, and the engineering behind production-ready AI systems.
+Beyond learning and building, I enjoy sharing knowledge and helping others grow in the field. I'm currently Co-Director of NLP & Generative AI at ApplAI and Vice Head of AI at MSP, where I contribute to technical learning tracks, mentor students, and help create opportunities for practical learning.
+
+I'm always looking to learn, build, collaborate, and take on new challenges in the world of AI.
 
 ---
 
 ## 📌 Current Focus
 - Competitive Programming  
-- LLMs Engineering & Generative AI
+- AI Engineering
 - Exploring Different Fields of Software Engineering  
 
 ---
