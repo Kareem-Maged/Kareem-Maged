@@ -1,4 +1,4 @@
-# Hi, I'm Kareem Maged 👋
+# Hi, I'm Kareem Maged
 
 I'm Kareem Maged, a Computer Science student focused on AI Engineering and Software Engineering, particularly the process of turning ideas into practical solutions.
 
